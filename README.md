@@ -27,7 +27,7 @@ A containerized environment for running quantum chemistry calculations using ORC
 
 1.  Clone the repository:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/RenatoJVA/ChemInformatics.git
     cd Cheminformatics
     ```
 
